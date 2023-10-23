@@ -1,0 +1,3 @@
+[submodule "PEDRA"]
+	path = PEDRA
+	url = https://github.com/Gavito/PEDRA.git
